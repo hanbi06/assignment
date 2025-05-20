@@ -1,2 +1,5 @@
 # assignment
-assignment
+저장할 만한 과제들 저장하는 곳
+
+# 프로그래밍 기초
+스도쿠 게임
